@@ -1,0 +1,23 @@
+_id: req_c685bb31c378496c9d4fcddb9648022d
+type: Request
+parentId: fld_40c6a5d1019a477381f485fd2e59d94b
+modified: 1665238489914
+created: 1665238110079
+url: "{{url}}/user/AuthorizedResource"
+name: test-auth
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication:
+  type: bearer
+  token: eyJhbGciOiJodHRwOi8vd3d3LnczLm9yZy8yMDAxLzA0L3htbGRzaWctbW9yZSNobWFjLXNoYTI1NiIsInR5cCI6IkpXVCJ9.eyJodHRwOi8vc2NoZW1hcy54bWxzb2FwLm9yZy93cy8yMDA1LzA1L2lkZW50aXR5L2NsYWltcy9uYW1lIjoiMSIsImh0dHA6Ly9zY2hlbWFzLnhtbHNvYXAub3JnL3dzLzIwMDUvMDUvaWRlbnRpdHkvY2xhaW1zL25hbWVpZGVudGlmaWVyIjoiNDIwZjhiYWMtMzRkYy00OGNlLTllMjMtNjY2Y2NjMzBiNzM2IiwiZXhwIjoxNjY1MjM5Nzk4LCJhdWQiOiJzaGFocm9veiJ9.ak48VR6ArRjfRWfrsC71MKEsvwzkyDg1DqShCCafghk
+metaSortKey: -1665237979672.5
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
